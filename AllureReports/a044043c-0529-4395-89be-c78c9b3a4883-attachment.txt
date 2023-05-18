@@ -1,0 +1,5 @@
+Entered name
+Entered email address
+Entered Password
+Entered Confirmed Password
+Sign Up button clicked

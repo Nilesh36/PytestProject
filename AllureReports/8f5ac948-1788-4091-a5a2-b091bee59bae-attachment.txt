@@ -1,0 +1,7 @@
+Clicked on the Skip button
+Entered Card number
+Entered Expiry date
+Entered CVC number
+Entered Name on the card
+Clicked Subscribe button
+Subscription taken successful
